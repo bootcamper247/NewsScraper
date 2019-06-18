@@ -1,6 +1,7 @@
 # NewsScraper
 
 # All the News That's Fit to Scrape
+https://cryptic-basin-15402.herokuapp.com/
 
 ### Overview
 
